@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+MLOPS_Project_1.egg-info/
+artifacts/
+src/data_ingestion.py/
+.e
